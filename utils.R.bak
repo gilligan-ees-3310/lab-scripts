@@ -1,9 +1,6 @@
 #
 #  EES 3310 Lab Utility Scripts
 #
-library(tiyverse)
-library(lubridate)
-
 sb_const <- 5.6704E-8
 sigma_sb <- sb_const
 zero_celsius <- 273.15 # K
